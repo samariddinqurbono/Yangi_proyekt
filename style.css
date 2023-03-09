@@ -1,0 +1,77 @@
+
+@import url(https://www.google.com/search?q=fonts.googleapis.com+css&oq=fonts&aqs=chrome.0.69i59j69i57j0i512j0i20i263i512j0i512l5.6174j0j4&sourceid=chrome&ie=UTF-88);
+*
+{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: color #99e708 ;
+}
+h1
+{
+    font-family: cursive;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 10%;
+
+}
+.content-1
+{
+    width: 120%;
+    background-color: white;
+    margin-top: 10%;
+    cursor: pointer;
+}
+p 
+{
+    font-size: 1rem;
+    padding: 10px;
+    font-family: 'Orbitron',sans-serif;
+    box-shadow: 0px 5px 10px black;
+
+}
+span
+{
+    position: relative;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding: 2px 4px 10px 0px;
+}
+.content-2
+{
+    width: 120%;
+    background-color: white;
+    margin-top: 10%;
+    cursor: pointer;
+}
+p
+{
+    font-size: 1rem;
+    padding: 10px;
+    font-family: 'Orbitron',sans-serif;
+    box-shadow: 0px 5px 10px black;
+}
+span
+{
+    position: relative;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding: 2px 4px 10px 0px;
+}
+.content-3
+{
+    width: 120%;
+    background-color: white;
+    margin-top: 10%;
+    cursor: pointer;
+}
